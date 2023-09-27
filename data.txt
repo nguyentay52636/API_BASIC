@@ -1,0 +1,44 @@
+[
+ {
+  "id": "1",
+  "tenSP": "CyberBeats",
+  "gia": "99.99",
+  "hinhAnh": "product1.png",
+  "moTa": "Accessories"
+ },
+ {
+  "id": "2",
+  "tenSP": "CyberPhone",
+  "gia": "99.99",
+  "hinhAnh": "product2.png",
+  "moTa": "Accessories"
+ },
+ {
+  "id": "3",
+  "tenSP": "CyberTablet",
+  "gia": "99.99",
+  "hinhAnh": "product3.png",
+  "moTa": "Accessories"
+ },
+ {
+  "id": "4",
+  "tenSP": "CyberWatch",
+  "gia": "99.99",
+  "hinhAnh": "product4.png",
+  "moTa": "Accessories"
+ },
+ {
+  "id": "5",
+  "tenSP": "CyberGlass",
+  "gia": "99.99",
+  "hinhAnh": "product5.png",
+  "moTa": "Accessories"
+ },
+ {
+  "id": "6",
+  "tenSP": "CyberGadget",
+  "gia": "99.99",
+  "hinhAnh": "product6.png",
+  "moTa": "Accessories"
+ }
+]
