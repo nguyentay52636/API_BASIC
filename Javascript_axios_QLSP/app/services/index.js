@@ -63,7 +63,7 @@ function deleteProduct(id) {
 }
 document.getElementById("btnThemSP").onclick = function laythongtin() {
   var title = document.querySelector(".modal-title");
-  title.innerHTML = " add san pham";
+  title.innerHTML = " add san pham1";
 
   var footer = document.querySelector(".modal-footer");
   footer.innerHTML = `<button class="btn btn-danger" onclick="addProduct()" >Add</button>`;
